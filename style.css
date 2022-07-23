@@ -1,0 +1,33 @@
+h1,h2,.centar,ul{
+    text-align: center;}
+
+.listecentar{
+    display:inline-block;
+    
+    }
+
+body {
+    background-color: rgba(93, 215, 122, 0.534);
+}
+
+h1,h2{
+font-family: "Edu VIC WA NT Beginner",sans-serif;}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+ul {font-size: 20px;}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+p,li{
+    font-family:"Enriqueta";
+}
+ul {
+    list-style-position: inside;
+}
